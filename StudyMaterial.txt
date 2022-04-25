@@ -1,1 +1,28 @@
-GIT info
+								Git
+
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+Version Control:  Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem.
+ also generally means that if you screw things up or lose files, you can easily recover.
+
+Repository: A repository contains all of your project's files and each file's revision history. 
+is like a data structure used by VCS to store metadata for a set of files and directories. It contains the collection of the files as well as the history of changes made to those files. Repository in Git is considered as your project folder. A repository has all the project-related data. Distinct projects have distinct repositories.
+
+GitHub: is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+Branches: Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+Typically, you might create a new branch from the default branch of your repository
+ You can then work on this new branch in isolation from changes that other people are making to the repository
+
+ 
+Tagging: Git has the ability to tag specific points in a repository’s history as being important.Typically, people use this functionality to mark release points.
+Commands:
+Syntax:
+
+$ git tag <tag name> 
+The above command will mark the current status of the project.
+
+$ git tag: the git tag command is listing the available tags from the repository.
+
+$ git tag show <tagname>  : It's a specific command used to display the details of a particular tag. 
+$ git tag show <tagname> : the git show tag is displaying the description of tag projectv1.0, such as author name and date.
