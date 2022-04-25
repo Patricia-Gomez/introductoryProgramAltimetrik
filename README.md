@@ -15,3 +15,8 @@ Release branches: The release branch is created for the support of a new version
 
 Feature branches:  It is used to develop a new feature for the next version of the project. The existence of this branch is limited; it is deleted after its feature has been merged with develop branch.
 
+bibliography:
+
+https://www.javatpoint.com/git-flow
+https://css-tricks.com/branching-strategies-in-git/
+
