@@ -1,3 +1,6 @@
+
+Hello! My name is Patricia, this is my Repository
+
 # introductoryProgramAltimetrik
 Card Number #48
 
@@ -19,4 +22,6 @@ bibliography:
 
 https://www.javatpoint.com/git-flow
 https://css-tricks.com/branching-strategies-in-git/
+
+Handbook : ( https://docs.google.com/document/d/1x8fwaIwzl5pjtvPh0w6tgf2TVn30Df1oABnpORPgLhQ/edit# )
 
