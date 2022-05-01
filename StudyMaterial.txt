@@ -26,3 +26,17 @@ $ git tag: the git tag command is listing the available tags from the repository
 
 $ git tag show <tagname>  : It's a specific command used to display the details of a particular tag. 
 $ git tag show <tagname> : the git show tag is displaying the description of tag projectv1.0, such as author name and date.
+
+
+HTML (Hypertext Markup Language)
+
+is a markup language for the web that defines the structure of web pages.
+is used for creating web pages and web applications.
+
+Hyper Text: HyperText simply means "Text within Text." A text has a link within it, is a hypertext. Whenever you click on a link which brings you to a new webpage, you have clicked on a hypertext. HyperText is a way to link two or more web pages (HTML documents) with each other.
+Markup language: A markup language is a computer language that is used to apply layout and formatting conventions to a text document. Markup language makes text more interactive and dynamic. It can turn text into images, tables, links, etc.
+
+is not considered a programming language as it can’t create dynamic functionality.
+
+
+https://github.com/Patricia-Gomez/introductoryProgramAltimetrik.git (Html StudyMaterial)
