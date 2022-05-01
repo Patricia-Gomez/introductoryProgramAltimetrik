@@ -25,3 +25,24 @@ https://css-tricks.com/branching-strategies-in-git/
 
 Handbook : ( https://docs.google.com/document/d/1x8fwaIwzl5pjtvPh0w6tgf2TVn30Df1oABnpORPgLhQ/edit# )
 
+
+Data attribute ( https://docs.google.com/document/d/1x8fwaIwzl5pjtvPh0w6tgf2TVn30Df1oABnpORPgLhQ/edit# )
+
+The data-* attribute is used to store custom data private to the page or application.
+consist of two parts:
+The attribute name should not contain any uppercase letters, and must be at least one character long after the prefix "data-"
+The attribute value can be any string
+Is a Global Attribute, and can be used on any HTML element.
+(The global attributes are attributes that can be used with all HTML elements.)
+
+syntax
+Any attribute on any element whose attribute name starts with data- is a data attribute
+
+<article
+  id="electric-cars"
+  data-columns="3"
+  data-index-number="12314"
+  data-parent="cars">
+...
+</article>
+
