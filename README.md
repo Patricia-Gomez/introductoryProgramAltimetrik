@@ -1,4 +1,4 @@
-<center>introductoryProgramAltimetrik</center>
+## introductoryProgramAltimetrik
 
 # Hello! My name is Patricia, this is my Repository with the study material BFEDA 2.0
 
@@ -7,6 +7,7 @@
 Card Number #48
 
 <img src="https://www.fayerwayer.com/resizer/sEkDQKnZFFO2T5-Sh1BPo09Ew3U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/7ZSHI74PGVEFJKYMLG443IUZ7E.jpg" alt="imágen de logo GitHub" width="500"/> 
+
 Git branching strategies and flows.
 Git flow is the set of guidelines that developers can follow when using Git.
 It is referred to as Branching Model by the developers and works as a central repository for a project. Developers work and push their work to different branches of the main repository.
