@@ -1,8 +1,9 @@
+<center> ## introductoryProgramAltimetrik </center>
 
-#Hello! My name is Patricia, this is my Repository 
+# Hello! My name is Patricia, this is my Repository with the study material BFEDA 2.0
 
 
-# introductoryProgramAltimetrik
+
 Card Number #48
 
 <img src="https://www.fayerwayer.com/resizer/sEkDQKnZFFO2T5-Sh1BPo09Ew3U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/7ZSHI74PGVEFJKYMLG443IUZ7E.jpg" alt="imágen de logo GitHub" width="500"/> 
