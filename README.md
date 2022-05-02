@@ -1,4 +1,4 @@
-<center> introductoryProgramAltimetrik </center>
+<center>introductoryProgramAltimetrik</center>
 
 # Hello! My name is Patricia, this is my Repository with the study material BFEDA 2.0
 
