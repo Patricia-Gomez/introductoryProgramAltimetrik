@@ -52,3 +52,4 @@ Any attribute on any element whose attribute name starts with data- is a data at
 
 
 (INTERNET) https://trello.com/c/g0tLtNRA/8-http-its-methods-response-codes-session-management
+(Events)   https://docs.google.com/document/d/1x8fwaIwzl5pjtvPh0w6tgf2TVn30Df1oABnpORPgLhQ/edit#
